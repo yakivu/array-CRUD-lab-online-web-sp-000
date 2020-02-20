@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
+  [array,element]
 end
-add_element_to_end_of_array.push(wow)
+
 def add_element_to_start_of_array(array, element)
   
 end
@@ -33,3 +33,4 @@ end
 def retrieve_last_element_from_array(array)
   
 end
+add_element_to_start_of_array.push(dog)
