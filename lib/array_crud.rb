@@ -33,4 +33,3 @@ end
 def retrieve_last_element_from_array(array)
   
 end
-add_element_to_start_of_array.push(dog)
